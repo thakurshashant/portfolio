@@ -21,7 +21,7 @@ const Main = () => {
             I'm Shashant Thakur
           </h1>
           <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800 ">
-            I'm a
+            I'm
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
@@ -30,6 +30,8 @@ const Main = () => {
                 "_Coder",
                 2000,
                 "_Tech Enthusiast",
+                2000,
+                "'_D's friend",
                 2000,
                 "_Software Engineer",
                 2000,
